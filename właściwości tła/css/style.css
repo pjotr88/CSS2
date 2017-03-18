@@ -1,0 +1,13 @@
+body {
+    background-color: lightcyan;
+    color: blue;
+}
+
+#pierwszy {
+    background-image: url("img/truskawka.jpg");
+    background-repeat: no-repeat;
+    background-position: 20% 10%;
+    background-attachment: local;
+    background-size: cover;
+    
+}
