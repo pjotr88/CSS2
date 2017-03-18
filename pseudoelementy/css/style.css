@@ -1,0 +1,12 @@
+#paragraf-przed::before {
+    content: "przed paragrafem";
+        color: red;
+}
+#paragraf-przed::first-letter {
+    text-transform: uppercase;
+}
+
+#paragraf-przed::first-line {
+    background-color: yellow;
+    
+}
