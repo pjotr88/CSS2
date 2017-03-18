@@ -1,0 +1,7 @@
+p>img {
+    float: left;
+}
+
+p:last-child {
+    clear: both;
+}
