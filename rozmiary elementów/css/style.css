@@ -1,0 +1,16 @@
+.box {
+    height: 150px;
+    width: 500px;
+    padding: 50px;
+    border: 10px solid orange;
+}
+
+#border-box {
+box-sizing: border-box;
+    overflow: scroll;
+    
+}
+
+#content-box {
+    box-sizing: content-box;
+}
