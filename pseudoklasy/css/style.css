@@ -1,0 +1,48 @@
+a {
+    color: black;
+}
+
+a:visited {
+    color: violet;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: darkkhaki;
+}
+
+a:focus {
+    color: chartreuse;
+}
+
+a:lang(pl) {
+    background-color: yellow;
+}
+p:target {
+    background-color: lime;
+}
+
+#kontener p:first-child {
+    background-color: lightcoral;
+}
+
+#kontener p:last-child {
+    background-color: lightgoldenrodyellow
+}
+
+#kontener p:empty::before {
+    content: "przed elementem";
+    color: blue;
+}
+
+#kontener p:only-child {
+    background-color: blue;
+}
+
+#kontener p:nth-child(3n +1) {
+    background-color: grey;
+}
+
