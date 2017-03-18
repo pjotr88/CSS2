@@ -1,0 +1,12 @@
+#box {
+    
+    width: 100px;
+    height: 100px;
+    background-color: lime;
+    transition: width 2s linear 500ms;
+}
+
+#box:hover {
+    width: 200px;
+    height: 200px;
+}
