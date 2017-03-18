@@ -1,0 +1,9 @@
+div {
+    background-color: beige;
+}
+
+@media (max-width: 768px) or (min-width: 968px) {
+    div {
+        background-color: green;
+    }
+}
