@@ -3,5 +3,5 @@ p>img {
 }
 
 p:last-child {
-    clear: both;
+    clear: border-top: ;
 }
