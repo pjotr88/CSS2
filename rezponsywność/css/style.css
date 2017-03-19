@@ -1,15 +1,9 @@
-
-
 body {
-
     font-size: 0;
     margin: 0;
     padding: 0;
     border: 0;
-    
 }
-
-
 
 #pierwszy {
     background-color: green;
@@ -23,9 +17,9 @@ body {
     background-color: aqua;
 }
 
-#czwarty  {
-    
+#czwarty {
     background-color: orange;
+    
 }
 
 div {
@@ -33,7 +27,4 @@ div {
     width: 25%;
     height: 20%;
     font-size: 15px;
-
-     
 }
-
