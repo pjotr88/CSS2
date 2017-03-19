@@ -1,0 +1,26 @@
+@media (min-width: 999px) and (max-width:1168px) {
+    div {
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 998px) {
+    div {
+        width: 48%;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+div {
+    width: 100%;
+    font-size: 30px;
+    color: yellow;
+}
+
+
+}
+@media (max-width: 480px) {
+    div {
+        width: 100%;
+    }
+}

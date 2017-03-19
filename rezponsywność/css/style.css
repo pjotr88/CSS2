@@ -1,9 +1,39 @@
-div {
-    background-color: beige;
+
+
+body {
+
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    
 }
 
-@media (max-width: 768px) or (min-width: 968px) {
-    div {
-        background-color: green;
-    }
+
+
+#pierwszy {
+    background-color: green;
 }
+
+#drugi {
+    background-color: brown;
+}
+
+#trzeci {
+    background-color: aqua;
+}
+
+#czwarty  {
+    
+    background-color: orange;
+}
+
+div {
+    display: inline-block;
+    width: 25%;
+    height: 20%;
+    font-size: 15px;
+
+     
+}
+
